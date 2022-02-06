@@ -26,3 +26,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 ## License
 
 [MIT](https://github.com/ugursabirer/kodluyoruzilkrepo/blob/main/LICENSE)
+
+## Images
+
+![Projeden görseller](ss.png)
